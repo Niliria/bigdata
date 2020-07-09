@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/intellij-javadocs-4.0.1.xml
+.idea/jarRepositories.xml
+.idea/leetcode/
+.idea/misc.xml
+.idea/modules.xml
+.idea/sonarlint/
+.idea/uiDesigner.xml
+.idea/vcs.xml
+bigdata.iml
+out/
+pom.xml
