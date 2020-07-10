@@ -15,3 +15,13 @@
 bigdata.iml
 out/
 pom.xml
+learn-hbase/target/
+learn-hdfs/src/test/
+learn-hdfs/target/
+learn-mapreduce/src/test/
+learn-mapreduce/target/
+learn-scala/learn-scala.iml
+learn-spark/target/
+learn-zookeeper/src/test/
+learn-zookeeper/target/
+learn-zookeeper/src/main/resources/
